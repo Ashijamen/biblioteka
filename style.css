@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0'
+
+}
+ .container
+{
+    background-color: aqua ;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+
+    
+} 
+
+.gora{
+    background-color:red;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    width: 100%; 
+}
+
+
+.lewo{
+    background-color:yellow;
+     display: flex;
+    justify-content: left;
+    align-items:center;
+    width: 50%;   
+}
+
+
+
+.prawo{
+    background-color:brown;
+    display: right;
+   justify-content: left;
+   align-items:right;
+   width: 50%;  
+}
+
+
+.srodek{
+    background-color:mediumslateblue;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    width: 100%; 
+}
