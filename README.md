@@ -1,4 +1,4 @@
-Tak, instrukcja może być napisana w taki sposób, ale jest kilka kwestii, które można ulepszyć w celu klarowności i czytelności. Oto kilka sugestii:
+
 
 **Instrukcja uruchomienia programu:**
 
