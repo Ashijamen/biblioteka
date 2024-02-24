@@ -8,7 +8,7 @@
 
 **Instrukcja dodawania książki i czytelnika do bazy:**
 
-1. **Dodawj autora i tytuł:**
+1. **Dodaj autora i tytuł:**
    - Wprowadź informacje o autorze i naciśnij przycisk "Dodaj autora".
    - Następnie wprowadź tytuł i zakończ proces, naciskając przycisk "Dodaj tytuł". Autor i tytuł zostaną dodane do bazy danych i otrzymają swoje ID.
 
